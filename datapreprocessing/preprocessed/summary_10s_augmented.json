@@ -1,0 +1,33 @@
+{
+    "window_seconds": 10,
+    "augmentation_enabled": true,
+    "total_samples": 386,
+    "subjects": {
+        "1.json": 9,
+        "10.json": 13,
+        "11.json": 11,
+        "12.json": 15,
+        "13.json": 16,
+        "14.json": 14,
+        "15.json": 17,
+        "16.json": 14,
+        "17.json": 17,
+        "18.json": 14,
+        "19.json": 16,
+        "2.json": 18,
+        "20.json": 17,
+        "21.json": 15,
+        "22.json": 21,
+        "23.json": 12,
+        "24.json": 12,
+        "25.json": 14,
+        "26.json": 14,
+        "3.json": 14,
+        "4.json": 18,
+        "5.json": 18,
+        "6.json": 13,
+        "7.json": 14,
+        "8.json": 15,
+        "9.json": 15
+    }
+}
